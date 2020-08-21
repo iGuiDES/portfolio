@@ -339,10 +339,19 @@ body {
   }
 }
 
+@media only screen and (min-width: 860px) and (max-width: 1100px) {
+
+  .project-text,
+  .contacts-text {
+    margin-left: 30px;
+  }
+}
+
 @media (max-width: 836px) {
   .hero-content {
     flex-direction: column;
   }
+
   .hero-avatar {
     order: 0;
     width: 300px;
