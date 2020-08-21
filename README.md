@@ -1,3 +1,3 @@
 # Портфолио
 
-[Выполненные задания](https://iguides.github.io/portfolio/index.html)
+[Выполненные задания](https://iguides.github.io/portfolio/)
