@@ -99,7 +99,8 @@ body {
   height: 389px;
   background-color: #fff;
   border-radius: 50%;
-  background-image: url(..//img/my_photos.jpg);
+  background-image: url(..//img/MyFace.png);
+  background-size: 380px auto;
   background-repeat: no-repeat;
   background-position: center;
   border: 10px solid #fff;
@@ -340,7 +341,6 @@ body {
 }
 
 @media only screen and (min-width: 860px) and (max-width: 1100px) {
-
   .project-text,
   .contacts-text {
     margin-left: 30px;
